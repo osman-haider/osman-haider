@@ -67,8 +67,9 @@ I enjoy solving complex problems, building useful AI apps, and continuously lear
 
 ## 🌐 **How to Reach Me**
 📧 Email: **osmanhaider167@gmail.com**  
-🔗 LinkedIn: *[Add your LinkedIn URL here](https://www.linkedin.com/in/m-usman-haider/)*  
-🐙 Portfolio: *[Your GitHub profile link here](https://osman-haider.github.io/)*  
+🔗 LinkedIn: *[LinkedIn](https://www.linkedin.com/in/m-usman-haider/)* 
+𝕏  X: *[Twitter](https://x.com/its_osman2)* 
+🐙 Portfolio: *[Portfolio](https://osman-haider.github.io/)*  
 
 ---
 
