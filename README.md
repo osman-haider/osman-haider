@@ -74,9 +74,12 @@ I enjoy solving complex problems, building useful AI apps, and continuously lear
 ---
 
 ## 📌 **What I’m Open To**
-- Full-time roles in **AI/ML Engineering**, **Data Science**, **LLM Engineering**  
-- Freelance/Remote AI projects  
-- Collaboration on open‑source AI/ML tools  
+
+- Full-time roles in **AI/ML Engineering**, **Data Science**, **LLM Engineering**, **MLOps**, and **AI Product Development**  
+- Freelance or remote projects involving **Machine Learning**, **Deep Learning**, **GenAI**, **RAG pipelines**, **NLP**, and **Computer Vision**  
+- Collaboration on **open-source AI/ML tools**, research work, and AI frameworks (LangChain, LangGraph, vector databases, model optimization, etc.)  
+- Consulting on building **LLM-driven automations**, **AI agents**, **end-to-end ML pipelines**, and **AI system architecture**
+
 
 ---
 
