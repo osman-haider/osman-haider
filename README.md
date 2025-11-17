@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Muhammad Abdul Ahad**
+# 👋 Hi, I'm **Muhammad Usman Haider**
 
 ### 🚀 AI/ML Engineer | Data Scientist | LLM & Generative AI Engineer  
 Passionate about building intelligent systems, optimizing ML pipelines, and designing real-world AI solutions that scale.
