@@ -1,91 +1,30 @@
-# 👋 Hi, I'm **Muhammad Usman Haider**
+<h1 align="center">Hi 👋, I'm Usman Haider</h1>
+<h3 align="center">A passionate AI/ML Engineer from Pakistan</h3>
 
-### 🚀 AI/ML Engineer | Data Scientist | LLM & Generative AI Engineer  
-Passionate about building intelligent systems, optimizing ML pipelines, and designing real-world AI solutions that scale.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osman-haider&label=Profile%20views&color=0e75b6&style=flat" alt="osman-haider" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osman-haider" alt="osman-haider" /></a> </p>
 
-## 👨‍💻 **About Me**
-I'm an AI/ML Engineer with **2+ years of experience** working across:
-- Large Language Models (LLMs)
-- RAG Architectures
-- MLOps & Deployment
-- NLP & Computer Vision
-- Agentic Workflows (LangChain / LangGraph)
-- End‑to‑end AI system design
+- 🌱 I’m currently learning **LLMs**
 
-I enjoy solving complex problems, building useful AI apps, and continuously learning cutting‑edge technologies.
+- 👨‍💻 All of my projects are available at [https://osman-haider.github.io/](https://osman-haider.github.io/)
 
----
+- 📝 I regularly write articles on [https://usman-haider.medium.com/](https://usman-haider.medium.com/)
 
-## 🔭 **What I'm Currently Working On**
-- Building **multi-agent AI systems** using **LangChain & LangGraph**
-- Creating **production-grade RAG pipelines**
-- Integrating **LLMs** (Llama, GPT, Mistral, Gemini, Claude)
-- Experimenting with **Autonomous Agents** + **Tool Calling**
+- 📫 How to reach me **osmanhaider167@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/osman_haider0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osman_haider0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-usman-haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-usman-haider" height="30" width="40" /></a>
+<a href="https://medium.com/@usman-haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@usman-haider" height="30" width="40" /></a>
+</p>
 
-## 🛠 **Tools & Technologies**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### **🧠 AI & Machine Learning**
-- Python, NumPy, Pandas, Scikit-learn  
-- PyTorch, TensorFlow, Keras  
-- Transformers (HuggingFace), Diffusers  
-- RAG Pipelines, Vector DBs (FAISS, Chroma, Pinecone)  
-- LangChain, LangGraph, OpenAI Assistants, MCP  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osman-haider&show_icons=true&locale=en&layout=compact" alt="osman-haider" /></p>
 
-### **📊 Data Science & Analytics**
-- Data Cleaning, Feature Engineering  
-- Exploratory Data Analysis (EDA)  
-- Statistical Modeling  
-- Jupyter, Matplotlib, Seaborn  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osman-haider&show_icons=true&locale=en" alt="osman-haider" /></p>
 
-### **🤖 NLP & LLM Ecosystem**
-- LLaMA, GPT, Mistral, Falcon  
-- Tokenization, Embeddings  
-- Prompt Engineering, Fine-tuning  
-- NER, Text Classification, Summarization  
-
-### **👁️ Computer Vision**
-- OpenCV  
-- YOLOv8  
-- Image Preprocessing & Augmentation  
-
-### **⚙️ MLOps & Deployment**
-- Docker, Kubernetes  
-- FastAPI, Flask  
-- CI/CD  
-- Model Optimization (Quantization, Pruning)
-
-### **☁️ Cloud**
-- Azure (AI Services, Storage, Compute)  
-- AWS (S3, EC2, Lambda)  
-- GCP (Vertex AI)
-
----
-
-## 🌐 **How to Reach Me**
-📧 Email: **osmanhaider167@gmail.com** <br>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/m-usman-haider/">LinkedIn</a> <br>
-𝕏 X: <a href="https://x.com/its_osman2">Twitter</a> <br>
-🐙 Portfolio: <a href="https://osman-haider.github.io/">Portfolio</a>
-
----
-
-## 📌 **What I’m Open To**
-
-- Full-time roles in **AI/ML Engineering**, **Data Science**, **LLM Engineering**, **MLOps**, and **AI Product Development**  
-- Freelance or remote projects involving **Machine Learning**, **Deep Learning**, **GenAI**, **RAG pipelines**, **NLP**, and **Computer Vision**  
-- Collaboration on **open-source AI/ML tools**, research work, and AI frameworks (LangChain, LangGraph, vector databases, model optimization, etc.)  
-- Consulting on building **LLM-driven automations**, **AI agents**, **end-to-end ML pipelines**, and **AI system architecture**
-
-
----
-
-## 💡 **My Mission**
-To build scalable, meaningful AI systems that help people, automate complex workflows, and push forward the boundaries of applied machine learning.
-
----
-
-⭐ *If you like my work, feel free to star my repositories!*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osman-haider&" alt="osman-haider" /></p>
